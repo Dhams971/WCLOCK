@@ -15,8 +15,6 @@ s.platform     = :ios, "9.0"
 
 s.source       = { :git => "https://github.com/Dhams971/WClock.git", :tag => "1.0.0" }
 
-s.source_files = "WClock", "WClock/**/*.{h,m,swift}"
-s.exclude_files = "Classes/Exclude"
 
 
 s.pod_target_xcconfig = { 'SWIFT_VERSION' => '4' }
