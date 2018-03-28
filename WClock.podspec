@@ -5,7 +5,7 @@ s.name         = "WClock"
 s.version      = "1.0.0"
 s.summary      = "WClock is a analog clock"
 s.description  = "WClock is a customizable Analog clock that can be used in any iOS app."
-s.homepage = "."
+s.homepage     =    "."
 
 s.license      = "MIT"
 
